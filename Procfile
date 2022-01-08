@@ -1,0 +1,1 @@
+web: gunicorn turfs24.wsgi --log-file -
